@@ -1,0 +1,15 @@
+.sweetato {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding: 2px;
+    border: 2px;
+    border-color: chocolate;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: fantasy;
+}
