@@ -25,3 +25,24 @@ h1 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+table, th, td {
+    border: solid 1px black;
+    text-align: center;
+    padding: 15px;
+}
+
+th {
+    background-color: burlywood;
+}
+
+td {
+    background-color: rgb(147, 181, 245);
+}
+
+table {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: fit-content;
+}
